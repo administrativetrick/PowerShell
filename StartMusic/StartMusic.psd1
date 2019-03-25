@@ -24,6 +24,7 @@ Author = 'AdministrativeTrick'
 CompanyName = ''
 
 # Copyright statement for this module
+Copyrihht = ''
 
 # Description of the functionality provided by this module
 # Description = 'This Module Generates a .ps1 file for the creation of Centene Packages'
