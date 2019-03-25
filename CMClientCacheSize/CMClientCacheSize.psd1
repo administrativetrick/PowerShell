@@ -24,7 +24,7 @@
 	CompanyName	   = ''
 	
 	# Copyright statement for this module
-	Copyright		 = '(c) 2018 Centene. All rights reserved.'
+	Copyright		 = ''
 	
 	# Description of the functionality provided by this module
 	# Description = 'This Module creates a new shortcut'
