@@ -2,15 +2,15 @@
 {
 <#
 .SYNOPSIS
-	Plays out the Mission Impossible Song using a series of beeps.
+	Plays one of three Songs using a series of beeps.
 .DESCRIPTION
-	Plays out the Mission Impossible Song using a series of beeps.
+	Plays one of three Song using a series of beeps.
 .PARAMETER ComputerName
 	The name of the computer to run this against.
 .EXAMPLE
-    Start-MissionImpossible
+    Start-Music -Song MissionImpossible
 .EXAMPLE
-Start-MissionImpossible -ComputerName "Computer01"
+    Start-Music -Song SuperMario
 #>
 [CmdletBinding()]
 Param (
